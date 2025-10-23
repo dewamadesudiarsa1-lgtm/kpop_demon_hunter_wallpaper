@@ -1,0 +1,732 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ALIEN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_app_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_url": "https://www.ecranlarge.com/content/uploads/2025/09/kpop-demon-hunters-une-suite-au-mega-succes-de-netflix-arrive-et-bien-plus-vite-que-prevu-1260x708.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/51f17fbb-7273-4d9a-b69c-764f21eb1ac4.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/a7e87876-cbe9-4306-8cf6-f83eedd60d95.jpeg"
+    },
+	{
+      "id": 3,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/26e671c5-a114-41dd-abd4-997d25f53fb2.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/1469399b-2cfc-4e69-b2c7-5e758790b2ad.jpeg"
+    },
+	{
+      "id": 5,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/628e29cd-4830-4920-b54f-bc55ef6d21a7.jpeg"
+    },
+    {
+      "id": 6,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/f8706dba-e0b3-419e-81e3-89a9ba6d16fb.jpeg"
+    },
+	{
+      "id": 7,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/91dc23db-de08-4edf-af35-a4a6a5a2e25f.jpeg"
+    },
+    {
+      "id": 8,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/f05bb8ef-c607-4aba-8daa-61309ad5e6ab.jpeg"
+    },
+	{
+      "id": 9,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/23f1a391-1420-465f-a98e-316663bf21c3.jpeg"
+    },
+    {
+      "id": 10,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/cc624ca0-96c6-4fd3-bef5-e62056991678.jpeg"
+    },
+	{
+      "id": 11,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/78c8701b-8c6c-477c-bc9e-cf44f0c4b7c7.jpeg"
+    },
+    {
+      "id": 12,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/357e14dd-d333-4817-b608-d4d7b72ac3e7.jpeg"
+    },
+	{
+      "id": 13,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/21d94cc9-6259-4d28-92a6-dccd609b2123.jpeg"
+    },
+    {
+      "id": 14,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/1e6375f1-531b-40d4-b53d-e7492cb7b032.jpeg"
+    },
+	{
+      "id": 15,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/fd256a3c-3e3b-497e-a0f3-b32a5f9e2ada.jpeg"
+    },
+    {
+      "id": 16,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/fb43c03d-a89f-4f7d-9c47-429fed6ba8f1.jpeg"
+    },
+	{
+      "id": 17,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/afcdb256-5e50-4266-a5fa-74d1594b12d4.jpeg"
+    },
+    {
+      "id": 18,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/60628da9-b80b-447a-b34e-55013cf4a945.jpeg"
+    },
+	{
+      "id": 19,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/b663f1fb-2e43-4c27-8097-e7b0985dc076.jpeg"
+    },
+    {
+      "id": 20,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/61f0faf3-b885-40be-8e2c-ca7f86b52eb9.jpeg"
+    },
+	{
+      "id": 21,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/08c0a729-e517-4c23-b091-1fda8504878a.jpeg"
+    },
+    {
+      "id": 22,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/1c624241-f108-4530-b579-f097b3035956.jpeg"
+    },
+	{
+      "id": 23,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/710c8d2b-0a79-4576-b421-689f631acbcd.jpeg"
+    },
+    {
+      "id": 24,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/4581984a-bbd0-489d-b2f5-8773d75d9e49.jpeg"
+    },
+	{
+      "id": 25,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/8d8c3d05-9710-411b-aa7e-6215800915a1.jpeg"
+    },
+    {
+      "id": 26,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/08/88d95180-c897-4957-ab0b-067c58f4fb5f.jpeg"
+    },
+	{
+      "id": 27,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/334f0c18-ce31-40c6-9e94-e4021c9bd29c.jpeg"
+    },
+    {
+      "id": 28,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/7dc50bf5-64cb-4eed-8eee-c90e515a4c3c.jpeg"
+    },
+	{
+      "id": 29,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/7216367d-1c2b-42e6-bd4e-9c1914aa61ae.jpeg"
+    },
+    {
+      "id": 30,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/29/66cfd3cb-bcac-400b-9a9f-0514d260eddf.jpeg"
+    },
+	{
+      "id": 31,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/5f6731ac-f2e4-41c5-a405-b1ea593362cc.jpeg"
+    },
+    {
+      "id": 32,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/123ed617-53e7-4efe-b423-ed028ab5909c.jpeg"
+    },
+	{
+      "id": 33,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/9b9312a7-2d6a-40f4-917a-8fca7e38b64f.jpeg"
+    },
+    {
+      "id": 34,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/e77716b5-a824-435a-9f3c-4900181b7c35.jpeg"
+    },
+	{
+      "id": 35,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/fdfab910-8950-4f95-a567-8bdbd5887131.jpeg"
+    },
+    {
+      "id": 36,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/06/ce904cf5-4b2e-49b9-a466-abd8f2d7c240.jpeg"
+    },
+	{
+      "id": 37,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/6bff2bb9-802e-4426-ade0-5ea732e0a8fb.jpeg"
+    },
+    {
+      "id": 38,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/3bdd80ae-b35e-4b6f-9b0c-2f7384c0c406.jpeg"
+    },
+	{
+      "id": 39,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/50d1110d-41b9-4c26-8bb3-fb89124afe0e.jpeg"
+    },
+    {
+      "id": 40,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/a272eb3d-5162-46d0-a8db-05c97484788c.jpeg"
+    },
+	{
+      "id": 41,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/01bd84c5-2085-4f74-a644-d99993039e34.jpeg"
+    },
+    {
+      "id": 42,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/ff6a239d-8a61-4f0d-8935-4b41878af1f5.jpeg"
+    },
+	{
+      "id": 43,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/29/a45229f6-88a1-42c2-81b6-dd87d3559900.jpeg"
+    },
+    {
+      "id": 44,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/5033da26-a58a-424a-9dc7-7068d0317c86.jpeg"
+    },
+	{
+      "id": 45,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/cae465fa-32da-4a20-b68b-77e46374905e.jpeg"
+    },
+    {
+      "id": 46,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/75c8b972-b20e-4d16-997a-6bf74530b6dc.jpeg"
+    },
+	{
+      "id": 47,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/826b8d05-f315-4325-b700-fe3c3c750e0b.jpeg"
+    },
+    {
+      "id": 48,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/145661be-5a06-432f-a4ba-9f26d33009c6.jpeg"
+    },
+	{
+      "id": 49,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/ca467aac-b353-421f-913c-bcca95332057.jpeg"
+    },
+    {
+      "id": 50,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/26e58a57-d10a-43c6-ab8e-860b6ab8ab1f.jpeg"
+    },
+	{
+      "id": 51,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/359beafa-37c3-4b38-a22b-e44d61ab7966.jpeg"
+    },
+    {
+      "id": 52,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/e509a02d-a994-4a8f-a6ca-d86b55d21a3c.jpeg"
+    },
+	{
+      "id": 53,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/c21da96c-6a72-4696-b4ff-4f154c5d95fc.jpeg"
+    },
+    {
+      "id": 54,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/2744f2b0-7e3b-419a-bafd-6ecacca9f061.jpeg"
+    },
+	{
+      "id": 55,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/8ad94be5-922f-42b2-8878-73c263ab6e4f.jpeg"
+    },
+    {
+      "id": 56,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/14/38101010-938a-4ee5-942e-9cbd717ad1af.jpeg"
+    },
+	{
+      "id": 57,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/28c547d0-7a52-4de8-bd23-4af97aefdec5.jpeg"
+    },
+    {
+      "id": 58,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/70efd553-1015-48c3-b461-b8c3822b0f88.jpeg"
+    },
+	{
+      "id": 59,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/5ccfadfc-0d27-4eaf-9bd6-0617e545f4bd.jpeg"
+    },
+    {
+      "id": 60,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/94fd712e-c92a-4a53-a38e-40f15f7061cb.jpeg"
+    },
+	{
+      "id": 61,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/a0ca24d9-f179-4f25-9516-0ee550643c05.jpeg"
+    },
+    {
+      "id": 62,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/f59618be-4661-4a2e-a0c3-9e81987859e3.jpeg"
+    },
+	{
+      "id": 63,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/f8706dba-e0b3-419e-81e3-89a9ba6d16fb.jpeg"
+    },
+    {
+      "id": 64,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/24a1c7ec-124d-43df-a4f8-23cf653531d8.jpeg"
+    },
+	{
+      "id": 65,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/62d69f31-ab14-46cb-8ddd-f8626a87c9ea.jpeg"
+    },
+    {
+      "id": 66,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/8ddea296-bd56-4727-b308-dd54ed43255f.jpeg"
+    },
+	{
+      "id": 67,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/1bf6cb35-fe8e-4241-8262-0f3d2c14186f.jpeg"
+    },
+    {
+      "id": 68,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/05/8357c150-173f-4d43-9422-555d6edb3931.jpeg"
+    },
+	{
+      "id": 69,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/20e094b2-b7c7-48a4-aa2d-a93d1030f067.jpeg"
+    },
+    {
+      "id": 70,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/8048dc91-2c38-4fed-ad59-90170e0f3a0c.jpeg"
+    },
+	{
+      "id": 71,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/a117d070-21b7-4ace-902c-3a5434d3e129.jpeg"
+    },
+    {
+      "id": 72,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/23bc6933-33a9-4f4f-8abd-b58aedb5ac2a.jpeg"
+    },
+	{
+      "id": 73,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/06/7c402c45-1ed6-4e7d-b4b5-616bd83c4d97.jpeg"
+    },
+    {
+      "id": 74,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/04/4f6468b6-9751-4ef9-8b6d-19a017fc1bd8.jpeg"
+    },
+	{
+      "id": 75,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/08/02/e4277b80-950a-49a1-88dc-6d3c06949897.jpeg"
+    },
+    {
+      "id": 76,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://backend.wallpics.app/wallpapers/2025/07/10/0fd6c002-da8a-4441-9008-7b6408a06fc2.jpeg"
+    },
+	{
+      "id": 77,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 77",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/kpo-demon-hunters-huntrx-wallpaper-preview.jpg"
+    },
+    {
+      "id": 78,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/69/42/1f/69421f3ae9367a93b02b2b9a91b5567e.jpg"
+    },
+	{
+      "id": 79,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2025/3c28/23c28dfdde2784b283d14c3210e935ac9f16fd440fbb40ed134071f23b364439d_o_st.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/kpop-demon-hunters-zoey-and-chips-wallpaper.jpg"
+    },
+	{
+      "id": 81,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 81",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2025/75a4/275a481abc5ddcda2edd424361069f0e6a5ed9a0757d00a9a7c020b396bf6ca92_o_st.jpg"
+    },
+    {
+      "id": 82,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 82",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://pbs.twimg.com/media/Gtwja-aWgAAciau?format=jpg&name=4096x4096"
+    },
+	{
+      "id": 83,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 83",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://assets.teenvogue.com/photos/6870e71cd25fcbb0030215ea/1:1/w_1608,h_1608,c_limit/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_29_14_L.jpg"
+    },
+    {
+      "id": 84,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 84",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/86/5c/11/865c11d6beba697f432dc3658ad9e598.jpg"
+    },
+	{
+      "id": 85,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 85",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/10/2f/7b102f8aa8164cb67d9a3b668dd9ee6c.jpg"
+    },
+    {
+      "id": 86,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 86",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/17/78/0a17780dea80c8bc43b88c78d8ecbbdb.jpg"
+    },
+	{
+      "id": 87,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 87",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2025/07/Kpop-Demon-Hunters-Wallpaper.jpg"
+    },
+    {
+      "id": 88,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 88",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2025/07/Kpop-Demon-Hunters-Wallpaper-7.jpg"
+    },
+	{
+      "id": 89,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 89",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2025/07/Kpop-Demon-Hunters-Wallpaper-2.jpg"
+    },
+    {
+      "id": 90,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 90",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://www.ixpap.com/images/2025/07/Kpop-Demon-Hunters-Wallpaper-10.jpg"
+    },
+	{
+      "id": 91,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 91",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/kpop-demon-hunters-rumi-mira-and-zoey-dark-wallpaper-preview.jpg"
+    },
+    {
+      "id": 92,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 92",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/1a/62/1e/1a621ed0735be060a8529092f9194501.jpg"
+    },
+	{
+      "id": 93,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 93",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d4/0b/cd/d40bcd5d10baf603db75a3915e3c2b6d.jpg"
+    },
+    {
+      "id": 94,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 94",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/16/d1/24/16d1248041dbcd7af694337817c35c2a.jpg"
+    },
+	{
+      "id": 95,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 95",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapercave.com/wp/wp15522589.jpg"
+    },
+    {
+      "id": 96,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 96",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/0e/49/ee0e49c4b3800e4e54ab22dd4d32a83b.jpg"
+    },
+	{
+      "id": 97,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 97",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d4/95/17/d49517db14873ac185d9f93fa74227cf.jpg"
+    },
+    {
+      "id": 98,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 98",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/kpo-demon-hunters-dark-saja-boys-logo-wallpaper-preview.jpg"
+    },
+	{
+      "id": 99,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 99",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://xkxqjlzvieat874751.gcdn.ntruss.com/2/2025/3c28/23c28dfdde2784b283d14c3210e935ac9f16fd440fbb40ed134071f23b364439d_o_st.jpg"
+    },
+    {
+      "id": 100,
+      "name_category": "KPOP DEMON HUNTER",
+      "wallpaper_name": "KPOP Demon Hunter Wallpaper 100",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://wallpapers-clan.com/wp-content/uploads/2025/08/kpop-demon-hunters-jinu-dark-spooky-wallpaper.jpg"
+    }
+  ]
+}
